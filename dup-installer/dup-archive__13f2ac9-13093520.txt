@@ -1,0 +1,881 @@
+{
+    "dup_type": "lite",
+    "created": "2024-10-13 09:35:20",
+    "version_dup": "1.5.11.1",
+    "version_wp": "6.6.2",
+    "version_db": "10.11.8",
+    "version_php": "7.4.33",
+    "version_os": "Linux",
+    "blogname": "\u0633\u0627\u06cc\u062a \u0622\u0645\u0627\u062f\u0647 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u06a9\u062a\u0627\u0628 \u0648 \u0627\u0646\u062a\u0634\u0627\u0631\u0627\u062a",
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$aVQ6NNpBAfTU5dS6eJES5OcGJfzPtE7cqMY1iNcI6Jh5owcN9ywyS",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "meharat.com",
+            "path": "\/book-shop\/",
+            "blogname": "\u0633\u0627\u06cc\u062a \u0622\u0645\u0627\u062f\u0647 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u06a9\u062a\u0627\u0628 \u0648 \u0627\u0646\u062a\u0634\u0627\u0631\u0627\u062a",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "38",
+                    "user_login": "designer",
+                    "id": "38"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/meharat.com\/book-shop",
+            "fullSiteUrl": "https:\/\/meharat.com\/book-shop",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/meharat\/public_html\/book-shop\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/meharat\/public_html\/book-shop\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/meharat.com\/book-shop\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "PHP",
+        "charSetList": [
+            "utf8mb4"
+        ],
+        "collationList": [
+            "utf8mb4_general_ci",
+            "utf8mb4_unicode_520_ci",
+            "utf8mb4_unicode_ci"
+        ],
+        "engineList": [
+            "MyISAM",
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "meharat_bookshop",
+        "tablesBaseCount": 66,
+        "tablesFinalCount": 66,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 5664,
+        "tablesSizeOnDisk": 13722029,
+        "tablesList": {
+            "wp_actionscheduler_actions": {
+                "inaccurateRows": 263,
+                "insertedRows": 263,
+                "size": 114956
+            },
+            "wp_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 3086
+            },
+            "wp_actionscheduler_groups": {
+                "inaccurateRows": 7,
+                "insertedRows": 7,
+                "size": 9456
+            },
+            "wp_actionscheduler_logs": {
+                "inaccurateRows": 787,
+                "insertedRows": 787,
+                "size": 105004
+            },
+            "wp_commentmeta": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 10312
+            },
+            "wp_comments": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 8408
+            },
+            "wp_duplicator_packages": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 9172
+            },
+            "wp_e_events": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_e_notes": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_e_notes_users_relations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2048
+            },
+            "wp_e_submissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_e_submissions_actions_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2048
+            },
+            "wp_e_submissions_values": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2048
+            },
+            "wp_jet_cct_customers_comments": {
+                "inaccurateRows": 4,
+                "insertedRows": 4,
+                "size": 3532
+            },
+            "wp_jet_post_types": {
+                "inaccurateRows": 12,
+                "insertedRows": 12,
+                "size": 12868
+            },
+            "wp_jet_search_suggestions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_jet_search_suggestions_sessions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_jet_smart_filters_indexer": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_jet_taxonomies": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 2492
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_options": {
+                "inaccurateRows": 662,
+                "insertedRows": 662,
+                "size": 2169892
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 2727,
+                "insertedRows": 2720,
+                "size": 4456448
+            },
+            "wp_posts": {
+                "inaccurateRows": 291,
+                "insertedRows": 308,
+                "size": 6488064
+            },
+            "wp_snippets": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 8812
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 54,
+                "insertedRows": 54,
+                "size": 18056
+            },
+            "wp_terms": {
+                "inaccurateRows": 60,
+                "insertedRows": 60,
+                "size": 17156
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 289,
+                "insertedRows": 289,
+                "size": 22453
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 60,
+                "insertedRows": 60,
+                "size": 10104
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 43,
+                "insertedRows": 43,
+                "size": 16716
+            },
+            "wp_users": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 8412
+            },
+            "wp_wc_admin_notes": {
+                "inaccurateRows": 143,
+                "insertedRows": 143,
+                "size": 63532
+            },
+            "wp_wc_admin_note_actions": {
+                "inaccurateRows": 178,
+                "insertedRows": 178,
+                "size": 43836
+            },
+            "wp_wc_category_lookup": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 2150
+            },
+            "wp_wc_customer_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2048
+            },
+            "wp_wc_download_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_wc_orders": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_wc_orders_meta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_wc_order_addresses": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_wc_order_coupon_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_wc_order_operational_data": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2048
+            },
+            "wp_wc_order_product_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_wc_order_stats": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_wc_order_tax_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_wc_product_attributes_lookup": {
+                "inaccurateRows": 27,
+                "insertedRows": 27,
+                "size": 4152
+            },
+            "wp_wc_product_download_directories": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 9428
+            },
+            "wp_wc_product_meta_lookup": {
+                "inaccurateRows": 30,
+                "insertedRows": 30,
+                "size": 13276
+            },
+            "wp_wc_rate_limits": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_wc_reserved_stock": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_wc_tax_rate_classes": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 9352
+            },
+            "wp_wc_webhooks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_api_keys": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2048
+            },
+            "wp_woocommerce_attribute_taxonomies": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 3124
+            },
+            "wp_woocommerce_downloadable_product_permissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_order_itemmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_order_items": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_payment_tokenmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_payment_tokens": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_sessions": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 9172
+            },
+            "wp_woocommerce_shipping_zones": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_shipping_zone_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_shipping_zone_methods": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_tax_rates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_tax_rate_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woodmart_wishlists": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woodmart_wishlist_products": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            }
+        },
+        "lowerCaseTableNames": 0,
+        "dbEngine": "MariaDB",
+        "version": "10.11.8",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 28,
+        "packageName": "20230614_d8b3d8a7db8cd8aad8a2d985d8a7d8",
+        "packageHash": "13f2ac9-13093520",
+        "secondaryHash": "c405069-13093520"
+    },
+    "fileInfo": {
+        "dirCount": 5292,
+        "fileCount": 29343,
+        "size": 105730513
+    },
+    "wpInfo": {
+        "version": "6.6.2",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/meharat\/public_html\/book-shop",
+        "targetPaths": [
+            "\/home\/meharat\/public_html\/book-shop"
+        ],
+        "adminUsers": [
+            {
+                "ID": "38",
+                "user_login": "designer",
+                "id": "38"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/meharat\/public_html\/book-shop\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8mb4",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "KI+Yf[*ZAEE&[B a0,>~C$}b_c#nc-#FRDqy[t4A:98(wqUB=hKcugL;i-IHeXly",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "Ta3pQ&|+;dw\/onrBHgtN^RyJg9Y,HiH9P[hgm?d(x|E^9(m-_,gOzfv4OXkf?q0V",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "1L=@D>O[w9k,`O i.rxvW7#oX5QISelaQ3qJ~x.kX,KY@;RM *-8<=B!c>D5|7j>",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "uI-v[=zomDGc(*0[B[u~$AE-_.D*|cqE`\/G.T?g$vw7O=7G#}#V|z+%aL1$5B!2=",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "DwwjPb%!rFTqC\/$|wv7}J%;*4F?^?NU_#dI\/fZi.y \/&YiF3Fv?O%9?JhDfvXA9a",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "f5A]P4QQ#7GF!)M_7nIVSAHXdg+e,L&gRy=E-(bLI&Fk=QaM<.M|\/`,sh?yTiQki",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "4165=>A[yWER}zz]]Z,f!!qoV \/H-0rh-SvW?yOIc_53Q`{53~6w+Ai$g?Zg#}1l",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "{CiDe_hb;cmA}~I){1Rxc*@SdphQ-&kx9eGtD[<vXlXv7zj0k*q=a~F>.>|Zl\/q0",
+                    "inWpConfig": true
+                },
+                "WP_SITEURL": {
+                    "value": "https:\/\/meharat.com\/book-shop",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/meharat\/public_html\/book-shop\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/meharat.com\/book-shop\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/meharat\/public_html\/book-shop\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/meharat.com\/book-shop\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": "",
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "2048M",
+                    "inWpConfig": true
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "2048M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/meharat\/public_html\/book-shop\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/book-shop\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/book-shop\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/book-shop\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/book-shop\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/meharat\/public_html\/book-shop\/wp-content\/themes\/hello-elementor",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/meharat\/public_html\/book-shop\/wp-content\/themes\/hello-elementor",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/meharat\/public_html\/book-shop\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/meharat.com\/book-shop\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/meharat.com\/book-shop",
+                "homeUrl": "https:\/\/meharat.com\/book-shop",
+                "loginUrl": "https:\/\/meharat.com\/book-shop\/wp-login.php",
+                "contentUrl": "https:\/\/meharat.com\/book-shop\/wp-content",
+                "uploadBaseUrl": "https:\/\/meharat.com\/book-shop\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/meharat.com\/book-shop\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/meharat.com\/book-shop\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/meharat.com\/book-shop\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/meharat\/public_html\/book-shop",
+                    "abs": "\/home\/meharat\/public_html\/book-shop",
+                    "wpconfig": "\/home\/meharat\/public_html\/book-shop",
+                    "wpcontent": "\/home\/meharat\/public_html\/book-shop\/wp-content",
+                    "uploads": "\/home\/meharat\/public_html\/book-shop\/wp-content\/uploads",
+                    "plugins": "\/home\/meharat\/public_html\/book-shop\/wp-content\/plugins",
+                    "muplugins": "\/home\/meharat\/public_html\/book-shop\/wp-content\/mu-plugins",
+                    "themes": "\/home\/meharat\/public_html\/book-shop\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/meharat\/public_html\/book-shop",
+                    "abs": "\/home\/meharat\/public_html\/book-shop",
+                    "wpconfig": "\/home\/meharat\/public_html\/book-shop",
+                    "wpcontent": "\/home\/meharat\/public_html\/book-shop\/wp-content",
+                    "uploads": "\/home\/meharat\/public_html\/book-shop\/wp-content\/uploads",
+                    "plugins": "\/home\/meharat\/public_html\/book-shop\/wp-content\/plugins",
+                    "muplugins": "\/home\/meharat\/public_html\/book-shop\/wp-content\/mu-plugins",
+                    "themes": "\/home\/meharat\/public_html\/book-shop\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "demo-modal\/demo-modal.php": {
+                "slug": "demo-modal\/demo-modal.php",
+                "name": "Demo Modal",
+                "version": "1.0.0",
+                "pluginURI": "https:\/\/abzarwp.com",
+                "author": "abzarwp.com",
+                "authorURI": "https:\/\/abzarwp.com",
+                "description": "Display a \"Demo Site\" message as a modal and warning on specific pages.",
+                "title": "Demo Modal",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.11.1",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor\/elementor.php": {
+                "slug": "elementor\/elementor.php",
+                "name": "Elementor",
+                "version": "3.24.6",
+                "pluginURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!",
+                "title": "Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor-pro\/elementor-pro.php": {
+                "slug": "elementor-pro\/elementor-pro.php",
+                "name": "Elementor Pro",
+                "version": "3.21.3",
+                "pluginURI": "https:\/\/go.elementor.com\/wp-dash-wp-plugins-author-uri\/",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/go.elementor.com\/wp-dash-wp-plugins-author-uri\/",
+                "description": "Elevate your designs and unlock the full power of Elementor. Gain access to dozens of Pro widgets and kits, Theme Builder, Pop Ups, Forms and WooCommerce building capabilities.",
+                "title": "Elementor Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "jet-engine\/jet-engine.php": {
+                "slug": "jet-engine\/jet-engine.php",
+                "name": "JetEngine",
+                "version": "3.5.2",
+                "pluginURI": "https:\/\/crocoblock.com\/plugins\/jetengine\/",
+                "author": "Crocoblock",
+                "authorURI": "https:\/\/crocoblock.com\/",
+                "description": "The ultimate solution for managing custom post types, taxonomies and meta boxes.",
+                "title": "JetEngine",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "jet-engine-trim-callback-master\/jet-engine-trim-callback.php": {
+                "slug": "jet-engine-trim-callback-master\/jet-engine-trim-callback.php",
+                "name": "JetEngine - Trim string callback",
+                "version": "1.0.3",
+                "pluginURI": "#",
+                "author": "Crocoblock",
+                "authorURI": "https:\/\/crocoblock.com\/",
+                "description": "Adds new callback to Dynamic Field widget, which allows to return truncated string with specified width.",
+                "title": "JetEngine - Trim string callback",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "jet-plugin-pro\/index.php": {
+                "slug": "jet-plugin-pro\/index.php",
+                "name": "Jet Plugin Pro",
+                "version": "1.5.1",
+                "pluginURI": "https:\/\/abzarwp.com",
+                "author": "AbzarWP.Com",
+                "authorURI": "https:\/\/Abzarwp.com\/",
+                "description": "",
+                "title": "Jet Plugin Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "jet-search\/jet-search.php": {
+                "slug": "jet-search\/jet-search.php",
+                "name": "JetSearch",
+                "version": "3.2.3",
+                "pluginURI": "https:\/\/crocoblock.com\/plugins\/jetsearch\/",
+                "author": "Crocoblock",
+                "authorURI": "https:\/\/crocoblock.com\/",
+                "description": "The best tool for adding complex search functionality to pages built with Elementor or Blocks editor",
+                "title": "JetSearch",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "jet-smart-filters\/jet-smart-filters.php": {
+                "slug": "jet-smart-filters\/jet-smart-filters.php",
+                "name": "JetSmartFilters",
+                "version": "3.4.5",
+                "pluginURI": "https:\/\/crocoblock.com\/plugins\/jetsmartfilters\/",
+                "author": "Crocoblock",
+                "authorURI": "https:\/\/crocoblock.com\/",
+                "description": "Adds easy-to-use AJAX filters to the pages built with Elementor which contain the dynamic listings.",
+                "title": "JetSmartFilters",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "svg-support\/svg-support.php": {
+                "slug": "svg-support\/svg-support.php",
+                "name": "SVG Support",
+                "version": "2.5.8",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/svg-support\/",
+                "author": "Benbodhi",
+                "authorURI": "https:\/\/benbodhi.com",
+                "description": "Upload SVG files to the Media Library and render SVG files inline for direct styling\/animation of an SVG's internal elements using CSS\/JS.",
+                "title": "SVG Support",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce\/woocommerce.php": {
+                "slug": "woocommerce\/woocommerce.php",
+                "name": "WooCommerce",
+                "version": "9.3.3",
+                "pluginURI": "https:\/\/woocommerce.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/woocommerce.com",
+                "description": "An ecommerce toolkit that helps you sell anything. Beautifully.",
+                "title": "WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-parsidate\/wp-parsidate.php": {
+                "slug": "wp-parsidate\/wp-parsidate.php",
+                "name": "WP-Parsidate",
+                "version": "4.0.2",
+                "pluginURI": "https:\/\/wp-parsi.com\/support\/",
+                "author": "WP-Parsi Team",
+                "authorURI": "https:\/\/wp-parsi.com\/",
+                "description": "Persian package for WordPress, Adds full RTL and Shamsi (Jalali) support for: posts, comments, pages, archives, search, categories, permalinks and all admin sections and TinyMce editor, lists, quick editor. This package has Jalali archive widget.",
+                "title": "WP-Parsidate",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "Abzarwp-Presites-Necessary-Codes.php": {
+                "slug": "Abzarwp-Presites-Necessary-Codes.php",
+                "name": "Abzarwp-Presites-Necessary-Codes.php",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "",
+                "title": "",
+                "networkActive": false,
+                "active": false,
+                "mustUse": true,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "hello-elementor": {
+                "slug": "hello-elementor",
+                "themeName": "Hello Elementor",
+                "version": "3.1.1",
+                "themeURI": "https:\/\/elementor.com\/hello-theme\/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash",
+                "parentTheme": false,
+                "template": "hello-elementor",
+                "stylesheet": "hello-elementor",
+                "description": "Hello Elementor is a lightweight and minimalist WordPress theme that was built specifically to work seamlessly with the Elementor site builder plugin. The theme is free, open-source, and designed for users who want a flexible, easy-to-use, and customizable website. The theme, which is optimized for performance, provides a solid foundation for users to build their own unique designs using the Elementor drag-and-drop site builder. Its simplicity and flexibility make it a great choice for both beginners and experienced Web Creators.",
+                "author": "Elementor Team",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash",
+                "tags": [
+                    "accessibility-ready",
+                    "flexible-header",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "featured-images",
+                    "rtl-language-support",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": -1,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "\u0633\u0627\u06cc\u062a \u0622\u0645\u0627\u062f\u0647 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u06a9\u062a\u0627\u0628 \u0648 \u0627\u0646\u062a\u0634\u0627\u0631\u0627\u062a"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20230614_d8b3d8a7db8cd8aad8a2d985d8a7d8_13f2ac947dffa4a29041_20241013093520_installer-backup.php",
+    "package_name": "20230614_d8b3d8a7db8cd8aad8a2d985d8a7d8_13f2ac947dffa4a29041_20241013093520_archive.zip",
+    "package_hash": "13f2ac9-13093520",
+    "package_notes": ""
+}

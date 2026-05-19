@@ -1,0 +1,900 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JetSearch For Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2023-04-18 10:45+0430\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: jet-search.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+msgid "18 Advanced JetPlugins"
+msgstr "18 افزونه های جت پیشرفته"
+
+msgid "A number of results displayed in one search query."
+msgstr "تعدادی نتایج نمایش داده شده در یک کوئری جستجو."
+
+msgid "A number of results displayed on one search page."
+msgstr "تعدادی نتایج نمایش داده شده در یک صفحه جستجو."
+
+msgid "ASC"
+msgstr "صعودی"
+
+msgid "Activate Now"
+msgstr "فعال سازی الان"
+
+msgid "Activate Wizard"
+msgstr "فعالسازی راه انداز"
+
+msgid "Activate license for automatic updates and awesome support"
+msgstr "لایسنس را برای به روزرسانی خودکار و پشتیبانی عالی فعال کنید"
+
+msgid "Active"
+msgstr "فعال"
+
+msgid "Add New License"
+msgstr "افزودن لایسنس جدید"
+
+msgid ""
+"Add and Activate license for automatic updates, awesome support, useful "
+"features and more"
+msgstr ""
+"لایسنس را برای به روزرسانی های خودکار ، پشتیبانی پرمیوم ، ویژگی های مفید و "
+"موارد دیگر اضافه و فعال کنید"
+
+msgid "After"
+msgstr "بعد"
+
+msgid "Ajax Search"
+msgstr "جستجوی آژاکس"
+
+msgid "Alignment"
+msgstr "چینش"
+
+msgid "All Categories"
+msgstr "همه دسته بندی ها"
+
+msgid "All Results Button"
+msgstr "دکمه همه نتایج"
+
+msgid "All Results Button Text"
+msgstr "متن دکمه همه نتایج"
+
+msgid "Angle"
+msgstr "Angle"
+
+msgid "Angle Double"
+msgstr "Angle Double"
+
+msgid "Arrow"
+msgstr "Arrow"
+
+msgid "Arrow Circle"
+msgstr "Arrow Circle"
+
+msgid "Arrow Color"
+msgstr "رنگ پیکان"
+
+msgid "Arrow Font Size"
+msgstr "اندازه فونت پیکان"
+
+msgid "As Blocks"
+msgstr "بعنوان بلوک ها"
+
+msgid "Author"
+msgstr "نویسنده"
+
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+msgid "Before"
+msgstr "قبل"
+
+msgid "Before/After Content"
+msgstr "محتوا قبل/ بعد"
+
+msgid "Before/After Title"
+msgstr "عنوان قبل/بعد"
+
+msgid "Border"
+msgstr "حاشیه (Border)"
+
+msgid "Border Color"
+msgstr "رنگ حاشیه (Border)"
+
+msgid "Border Radius"
+msgstr "گردی حاشیه (Border)"
+
+msgid "Border Width"
+msgstr "عرض حاشیه (Border)"
+
+msgid "Border width must be more then 0"
+msgstr "عرض حاشیه (Border) باید بیشتر از 0 باشد"
+
+msgid "Bottom"
+msgstr "پایین"
+
+msgid "Bullet Pagination"
+msgstr "صفحه بندی گلوله ای"
+
+msgid "Caret"
+msgstr "Caret"
+
+msgid "Caret Square"
+msgstr "Caret Square"
+
+msgid "Categories List"
+msgstr "لیست دسته بندی ها"
+
+msgid "Center"
+msgstr "وسط"
+
+msgid "Check For Updates"
+msgstr "بررسی برای به روز رسانی"
+
+msgid "Chevron"
+msgstr "Chevron"
+
+msgid "Chevron Circle"
+msgstr "Chevron Circle"
+
+msgid "Clean"
+msgstr "تمیز"
+
+msgid "Clear Text Button Icon"
+msgstr "آیکن دکمه پاک کردن متن"
+
+msgid "Color"
+msgstr "رنگ"
+
+msgid "Color on Hover"
+msgstr "رنگ در هاور"
+
+msgid "Congratulations!"
+msgstr "تبریک!"
+
+msgid "Content"
+msgstr "محتوا"
+
+msgid "Content Color"
+msgstr "رنگ محتوا"
+
+msgid "Crocoblock"
+msgstr "کروکوبلاک"
+
+msgid "Custom"
+msgstr "سفارشی"
+
+msgid "Custom Field"
+msgstr "فیلد سفارشی"
+
+msgid "Custom Field Key"
+msgstr "کلید فیلد سفارشی"
+
+msgid "Custom Fields"
+msgstr "فیلد های سفارشی"
+
+msgid "Custom Position"
+msgstr "موقعیت سفارشی"
+
+msgid "Custom Width"
+msgstr "عرض سفارشی"
+
+msgid "DESC"
+msgstr "نزولی"
+
+msgid "Dashboard"
+msgstr "پیشخوان"
+
+msgid "Dashed"
+msgstr "خط‌ چین"
+
+msgid "Date"
+msgstr "تاریخ"
+
+msgid "Default"
+msgstr "پیش‌فرض"
+
+msgid "Design"
+msgstr "طراحی"
+
+msgid "Dev Test Page"
+msgstr "صفحه تست توسعه"
+
+msgid "Display Meta Label and Value"
+msgstr "نمایش برچسب و مقدار متا"
+
+msgid "Divider"
+msgstr "جدا کننده"
+
+msgid "Documentation"
+msgstr "مستندات"
+
+msgid "Documentation on date and time formatting"
+msgstr "مستندات فرمت تاریخ و زمان"
+
+msgid "Dotted"
+msgstr "نقطه چین"
+
+msgid "Double"
+msgstr "دوخطی"
+
+msgid "Dropdown Items Style"
+msgstr "استایل موارد کشویی"
+
+msgid "Dropdown Style"
+msgstr "استایل کشویی"
+
+msgid "Dynamic"
+msgstr "پویایی"
+
+msgid "E-commerce"
+msgstr "تجارت الکترونیک"
+
+msgid "Enable Scrolling"
+msgstr "فعال کردن اسکرول"
+
+msgid "Enable Scrolling "
+msgstr "فعال کردن اسکرول "
+
+msgid "End"
+msgstr "پایان"
+
+msgid "Enjoy the perks of All-inclusive"
+msgstr "از امتیازات فراگیر لذت ببرید"
+
+msgid "Exclude"
+msgstr "استثناء"
+
+msgid "Expiration Date:"
+msgstr "تاریخ انقضا:"
+
+msgid "Firefox and IE Explorer browsers are not supported"
+msgstr "مرورگرهای فایرفاکس و IE Explorer پشتیبانی نمی شوند"
+
+msgid "Focus"
+msgstr "فوکوس"
+
+msgid "Font Size"
+msgstr "اندازه فونت"
+
+msgid "Format"
+msgstr "فرمت"
+
+msgid "Format date"
+msgstr "فرمت تاريخ"
+
+msgid "Format date (localized)"
+msgstr "فرمت تاريخ (محلی)"
+
+msgid "Full"
+msgstr "کامل"
+
+msgid "Gap"
+msgstr "فاصله"
+
+msgid "Get Crocoblock"
+msgstr "دریافت کروکوبلاک"
+
+msgid "Get More Plugins"
+msgstr "دریافت افزونه های بیشتر"
+
+msgid "Get a JetPlugins bundle"
+msgstr "دریافت بسته نرم افزاری افزونه های جت"
+
+msgid "Go All-Inclusive"
+msgstr "فراگیر"
+
+msgid "Go Lifetime"
+msgstr "مادام العمر"
+
+msgid "Go to account"
+msgstr "رفتن به حساب"
+
+msgid "Help Center"
+msgstr "مرکز راهنما"
+
+msgid "Hide"
+msgstr "پنهان"
+
+msgid "Highlight Searched Text"
+msgstr "هایلایت متن جستجو شده"
+
+msgid "Horizontal Gap Between Label and Value"
+msgstr "فاصله افقی بین برچسب و مقدار"
+
+msgid "Hot Deals"
+msgstr "تخفیف ویژه"
+
+msgid "Hover"
+msgstr "هاور"
+
+msgid "ID"
+msgstr "شناسه"
+
+msgid "Icon"
+msgstr "آیکن"
+
+msgid "Icon Color"
+msgstr "رنگ آیکن"
+
+msgid "Icon Font Size"
+msgstr "اندازه فونت آیکن"
+
+msgid "Icon Gap"
+msgstr "شکاف آیکن"
+
+msgid "Icon Size"
+msgstr "اندازه آیکن"
+
+msgid "Include"
+msgstr "شامل"
+
+msgid ""
+"Include in the search results the posts containing the terms of the selected "
+"taxonomies with the search phrase in the term name"
+msgstr ""
+"در نتایج جستجو، پست‌های حاوی عبارات طبقه‌بندی انتخابی را با عبارت جستجو در نام "
+"عبارت وارد کنید."
+
+msgid "Included Plugins:"
+msgstr "افزونه های شامل:"
+
+msgid "Inexistent terms."
+msgstr "شرایط ناموجود."
+
+msgid "Inline"
+msgstr "درون خطی"
+
+msgid "Input Field"
+msgstr "فیلد ورودی"
+
+msgid "Input Field and Categories List Wrapper"
+msgstr "فیلد ورودی و بسته بندی لیست دسته بندی ها"
+
+msgid "Input Icon"
+msgstr "آیکن ورودی"
+
+msgid "Install"
+msgstr "نصب"
+
+msgid "Install Wizard"
+msgstr "راه انداز سریع"
+
+msgid "Installed JetPlugins"
+msgstr "افزونه های جت نصب شده"
+
+msgid "Jet Ajax Search: Full Results Button Text"
+msgstr "جستجوی آژاکس جت: متن دکمه نتایج کامل"
+
+msgid "Jet Ajax Search: Negative search results"
+msgstr "جستجوی آژاکس جت: نتایج جستجوی منفی"
+
+msgid "Jet Ajax Search: Placeholder Text"
+msgstr "جستجوی آژاکس جت: متن پلیس هولدر"
+
+msgid "Jet Ajax Search: Results Counter Text"
+msgstr "جستجوی آژاکس جت: متن شمارنده نتایج"
+
+msgid "Jet Ajax Search: Select Placeholder"
+msgstr "جستجوی آژاکس جت: انتخاب پلیس هولدر"
+
+msgid "Jet Ajax Search: Submit Button Label"
+msgstr "جستجوی آژاکس جت: برچسب دکمه ارسال"
+
+msgid "Jet Ajax Search: Technical error"
+msgstr "جستجوی آژاکس جت: خطای فنی"
+
+msgid "JetElements"
+msgstr "JetElements"
+
+msgid "JetPlugins License Activation"
+msgstr "فعال سازی لایسنس افزونه های جت"
+
+msgid "JetPlugins License Deactivation"
+msgstr "فعال سازی لایسنس افزونه های جت"
+
+msgid "JetPlugins Settings"
+msgstr "تنظیمات افزونه های جت"
+
+msgid "JetPlugin’s Update"
+msgstr "بروز رسانی افزونه های جت"
+
+msgid "JetSearch"
+msgstr "JetSearch"
+
+msgid "Justified"
+msgstr "جاستیفای"
+
+msgid "Key"
+msgstr "کلید"
+
+msgid "Label"
+msgstr "برچسب"
+
+msgid "Last modified"
+msgstr "آخرین ویرایش"
+
+msgid "Left"
+msgstr "چپ"
+
+msgid "License Manager"
+msgstr "مدیر لایسنس"
+
+msgid "Long Arrow"
+msgstr "Long Arrow"
+
+msgid "Manage Now"
+msgstr "مدیریت"
+
+msgid "Manage plugins"
+msgstr "مدیریت افزونه ها"
+
+msgid "Margin"
+msgstr "فاصله (Margin)"
+
+msgid "Max Height"
+msgstr "حداکثر ارتفاع"
+
+msgid "Max Height (px)"
+msgstr "حداکثر ارتفاع (px)"
+
+msgid "Menu order"
+msgstr "ترتیب منو"
+
+msgid "Meta Fields List"
+msgstr "لیست فیلدهای متا"
+
+msgid "Meta Fields Position"
+msgstr "موقعیت فیلدهای متا"
+
+msgid "Meta Label"
+msgstr "برچسب متا"
+
+msgid "Meta Styles %s"
+msgstr "استایل های متا  %s"
+
+msgid "Meta Value"
+msgstr "مقدار متا"
+
+msgid "Meta key from post-meta table in database"
+msgstr "کلید متا از جدول post-meta در پایگاه داده"
+
+msgid "Minimal Quantity of Symbols for Search"
+msgstr "حداقل تعداد نمادها برای جستجو"
+
+msgid "More included JetPlugins with your licence"
+msgstr "بیشتر شامل افزونه های جت با لایسنس شما است"
+
+msgid "More information about %s"
+msgstr "اطلاعات بیشتر در مورد %s"
+
+msgid "Navigation Arrows"
+msgstr "پیکان های پیمایش"
+
+msgid "Navigation Arrows Type"
+msgstr "نوع پیکانهای ناوبری"
+
+msgid "Negative search results"
+msgstr "نتایج جستجوی منفی"
+
+msgid "New to Crocoblock?"
+msgstr "در کروکوبلاک جدید هستید؟"
+
+msgid "Normal"
+msgstr "عادی"
+
+msgid "Notifications"
+msgstr "اطلاعیه ها"
+
+msgid "Number Pagination"
+msgstr "صفحه بندی شماره ای"
+
+msgid "Number of Comments (descending)"
+msgstr "تعداد نظرات (نزولی)"
+
+msgid "Old Price Typography"
+msgstr "تایپوگرافی قیمت قدیمی"
+
+msgid "Open Results In New Tab"
+msgstr "بازکردن نتایج در زبانه جدید"
+
+msgid "Padding"
+msgstr "فاصله داخلی (Padding)"
+
+msgid "Placeholder Text"
+msgstr "پلیس هولدر متن"
+
+msgid "Placeholder Typography"
+msgstr "تایپوگرافی پلیس هولدر"
+
+msgid "Plugin Manager"
+msgstr "مدیریت افزونه"
+
+msgid "Plugin pages"
+msgstr "برگه‌های افزونه"
+
+msgid "Post Content"
+msgstr "محتوای پست"
+
+msgid "Post Content Length"
+msgstr "طول محتوای پست"
+
+msgid "Post Content Source"
+msgstr "منبع محتوای پست"
+
+msgid "Post Excerpt"
+msgstr "خلاصه پست"
+
+msgid "Posts"
+msgstr "پست ها"
+
+msgid "Posts Number"
+msgstr "شماره پست ها"
+
+msgid "Posts Per Page"
+msgstr "تعادا پست در هر صفحه"
+
+msgid "Prepare meta value with callback"
+msgstr "مقادیر متا را با برگشت تماس آماده کنید"
+
+msgid "Product Name:"
+msgstr "نام محصول:"
+
+msgid "Product Old Price Color"
+msgstr "رنگ قیمت قدیمی محصول"
+
+msgid "Product Price"
+msgstr "قیمت محصول"
+
+msgid "Product Price Color"
+msgstr "رنگ قیمت محصول"
+
+msgid "Product Rating"
+msgstr "رتبه بندی محصولات"
+
+msgid "Product Rating Color"
+msgstr "رنگ امتیاز محصول"
+
+msgid "Product Rating Unmarked Color"
+msgstr "رنگ بدون علامت امتیاز محصول"
+
+msgid "Rand"
+msgstr "تصادفی"
+
+msgid "Relevance"
+msgstr "ارتباط"
+
+msgid "Responsive Form on Mobile"
+msgstr "فرم واکنشگرا در موبایل"
+
+msgid "Results"
+msgstr "نتایج"
+
+msgid "Results Area"
+msgstr "ناحیه نتایج"
+
+msgid "Results Area Width"
+msgstr "عرض ناحیه نتایج"
+
+msgid "Results Counter"
+msgstr "شمارنده نتایج"
+
+msgid "Results Counter Text"
+msgstr "متن شمارنده نتایج"
+
+msgid "Results Footer"
+msgstr "فوتر نتایج"
+
+msgid "Results Header"
+msgstr "هدر نتایج"
+
+msgid "Results Highlight"
+msgstr "ارتفاع نتایج"
+
+msgid "Results Items"
+msgstr "موارد نتایج"
+
+msgid "Results List"
+msgstr "لیست نتایج"
+
+msgid "Results Navigation"
+msgstr "ناوبری نتایج"
+
+msgid "Results Order"
+msgstr "ترتیب نتایج"
+
+msgid "Results Order By"
+msgstr "ترتیب نتایج بر اساس "
+
+msgid "Right"
+msgstr "راست"
+
+msgid "Save up to 60%"
+msgstr "60٪ صرفه جویی"
+
+msgid "Scrollbar Color"
+msgstr "رنگ نواراسکرول"
+
+msgid "Scrollbar Thumb Color"
+msgstr "رنگ بدانگشتی نواراسکرول"
+
+msgid "Search ..."
+msgstr "جستجو ..."
+
+msgid "Search Form"
+msgstr "فرم جستجو"
+
+msgid "Search Query"
+msgstr "کوئری جستجو"
+
+msgid "Search by the current query"
+msgstr "جستجو توسط کوئری فعلی"
+
+msgid "Search in custom fields"
+msgstr "جستجو در فیلد های سفارشی"
+
+msgid "Search in taxonomy terms"
+msgstr "جستجو در شرایط طبقه بندی"
+
+msgid "See all plans"
+msgstr "مشاهده همه پلن ها"
+
+msgid "See all results"
+msgstr "مشاهده همه نتایج"
+
+msgid "Select Placeholder"
+msgstr "انتخاب پلیس هولدر"
+
+msgid "Sentence Search"
+msgstr "جستجوی جمله"
+
+msgid "Set 0 to hide content."
+msgstr "برای پنهان کردن محتوا 0 تنظیم کنید."
+
+msgid "Set comma separated custom fields keys list (_sku, _price, etc.)"
+msgstr "تنظیم لیست کلیدهای فیلد های سفارشی جدا شده با کاما(_sku, _price, etc.)"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Show All Results Button"
+msgstr "نمایش دکمه همه نتایج"
+
+msgid "Show Categories List"
+msgstr "نمایش لیست دسته بندی ها"
+
+msgid "Show Meta %s"
+msgstr "نمایش متا %s"
+
+msgid "Show Post Thumbnail"
+msgstr "نمایش بندانگشتی پست"
+
+msgid "Show Product Price"
+msgstr "نمایش قیمت محصول"
+
+msgid "Show Product Rating"
+msgstr "نمایش امتیاز محصول"
+
+msgid "Show Results Counter"
+msgstr "نمایش شمارنده نتایج"
+
+msgid "Show Submit Button"
+msgstr "نمایش دکمه ارسال"
+
+msgid "Show in footer"
+msgstr "نمایش در فوتر"
+
+msgid "Show in header"
+msgstr "نمایش در هدر"
+
+msgid "Show in header and footer"
+msgstr "نمایش در هدر و فوتر"
+
+msgid "Size"
+msgstr "اندازه"
+
+msgid "Solid"
+msgstr "خط ممتد"
+
+msgid "Sorry, but nothing matched your search terms."
+msgstr "متأسفیم ، اما هیچ چیزی با عبارات جستجوی شما مطابقت ندارد."
+
+msgid ""
+"Sorry, but we cannot handle your search query now. Please, try again later!"
+msgstr ""
+"متأسفیم ، اما اکنون نمی توانیم کوئری جستجوی شما را هندل کنیم. لطفاً بعداً "
+"دوباره امتحان کنید!"
+
+msgid "Sorry, but you need to activate license to update your JetPlugin"
+msgstr "متأسفیم ، اما برای به روزرسانی افزونه جت خود باید لایسنس را فعال کنید"
+
+msgid "Source"
+msgstr "منبع"
+
+msgid "Spinner"
+msgstr "اسپینر"
+
+msgid "Start"
+msgstr "شروع"
+
+msgid "Start Here"
+msgstr "شروع"
+
+msgid "Status:"
+msgstr "وضعیت:"
+
+msgid "Stretch"
+msgstr "کشیده"
+
+msgid "Style"
+msgstr "استایل"
+
+msgid "Submit Button"
+msgstr "دکمه ارسال"
+
+msgid "Submit Button Icon"
+msgstr "آیکن دکمه ارسال"
+
+msgid "Submit Button Label"
+msgstr "برچسب دکمه ارسال"
+
+msgid "Support & Info"
+msgstr "پشتیبانی و اطلاعات"
+
+msgid "Taxonomies"
+msgstr "طبقه‌بندی‌ها"
+
+msgid "Taxonomy"
+msgstr "طبقه‌بندی"
+
+msgid "Technical error"
+msgstr "خطای فنی"
+
+msgid "Terms"
+msgstr "شرایط"
+
+msgid "Text Color"
+msgstr "رنگ متن"
+
+msgid "Text Decoration"
+msgstr "تزئینات متن"
+
+msgid ""
+"The best tool for adding complex search functionality to pages built with "
+"Elementor or Blocks editor"
+msgstr ""
+"بهترین ابزار برای افزودن قابلیت جستجوی پیچیده به صفحات ساخته شده با المنتور"
+
+msgid ""
+"This license will activate licenses for all plugins included in this set."
+msgstr ""
+"این لایسنس، مجوزها را برای تمام افزونه های موجود در این مجموعه فعال می کند."
+
+msgid "Thumbnail"
+msgstr "بند انگشتی"
+
+msgid "Thumbnail Placeholder"
+msgstr "پلیس هولدر بند انگشتی"
+
+msgid "Thumbnail Size"
+msgstr "اندازه بندانگشتی"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Title Color"
+msgstr "رنگ عنوان"
+
+msgid "Title Text Decoration"
+msgstr "تزئین عنوان متن"
+
+msgid "Top"
+msgstr "بالا"
+
+msgid "Type:"
+msgstr "نوع:"
+
+msgctxt "Typography Control"
+msgid "Line Through"
+msgstr "خط روی نوشته"
+
+msgctxt "Typography Control"
+msgid "None"
+msgstr "هیچ"
+
+msgctxt "Typography Control"
+msgid "Overline"
+msgstr "خط بالا"
+
+msgctxt "Typography Control"
+msgid "Underline"
+msgstr "آندرلاین"
+
+msgid ""
+"Unlock the ultimate website building toolkit for Elementor 150+ widgets and "
+"50+ templates"
+msgstr ""
+"قفل جعبه ابزار ساخت وب سایت نهایی برای المنتور 150+ ابزارک و 50+ قالب را باز "
+"کنید"
+
+msgid "Update & Installation"
+msgstr "بزوررسانی و نصب"
+
+msgid "Update Now"
+msgstr "بروز رسانی الان"
+
+msgid "Updates"
+msgstr "بروز رسانی ها"
+
+msgid "Use Product Catalog Visibility Settings"
+msgstr "استفاده از تنظیمات مشاهده کاتالوگ محصولات"
+
+msgid "Use for Archive Templates"
+msgstr "استفاده برای قالب آرشیو"
+
+msgid "Value Format"
+msgstr "فرمت مقدار"
+
+msgid "Value format string, accepts HTML markup. %s - is meta value"
+msgstr "استرینگ فرمت مقدار نشانه گذاری های HTML را میپذیرد.%s - مقدار متا است"
+
+msgid "Vertical Align"
+msgstr "تراز عمودی"
+
+msgid "Weight"
+msgstr "وزن"
+
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+msgid "Width"
+msgstr "عرض"
+
+msgid ""
+"You can select particular search areas. If nothing is selected in the "
+"option, the search will be made over the entire site."
+msgstr ""
+"می توانید مناطق خاص جستجو را انتخاب کنید. اگر چیزی در گزینه انتخاب نشده "
+"باشد ، جستجو در کل سایت انجام می شود."
+
+msgid "Your Installed JetPlugins"
+msgstr "افزونه های جت نصب شده شما"
+
+msgid "Your Licenses"
+msgstr "لایسنس های شما"
+
+msgid ""
+"Your license includes several plugins within the package. License "
+"deactivation in one plugin disables it in the rest of them. You can manage "
+"it through the License Manager."
+msgstr ""
+"لایسنس شامل چندین افزونه در بسته است. غیرفعال سازی لایسنس در یک پلاگین ، آن "
+"را در بقیه موارد غیرفعال می کند. می توانید از طریق مدیریت لایسنس آن را "
+"مدیریت کنید."
+
+msgid "by Input Box and Categories List"
+msgstr "توسط جعبه ورودی و لیست دسته بندی"
+
+msgid "by Search Form"
+msgstr "توسط فرم جستجو"
+
+msgid "https://crocoblock.com/"
+msgstr "https://crocoblock.com/"
+
+msgid "https://crocoblock.com/plugins/jetsearch/"
+msgstr "https://crocoblock.com/plugins/jetsearch/"

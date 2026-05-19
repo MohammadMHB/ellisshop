@@ -1,0 +1,116 @@
+# Copyright (C) 2024 abzarwp.com
+# This file is distributed under the same license as the Demo Modal plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Demo Modal 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/demo-modal\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-29T18:24:22+00:00\n"
+"PO-Revision-Date: 2024-08-04 18:41+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: demo-modal\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1"
+
+#. Author of the plugin
+msgid "abzarwp.com"
+msgstr ""
+
+#: includes/DemoModal.php:54 includes/DemoModal.php:124
+msgid "Attention of dear users:"
+msgstr "توجه کاربران گرامی:"
+
+#: includes/DemoModal.php:68
+msgid "Attention:\"Demo Modal\" plugin is active"
+msgstr "توجه : افزونه \"Demo Modal\" فعال است !"
+
+#. Name of the plugin
+msgid "Demo Modal"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Display a \"Demo Site\" message as a modal and warning on specific pages."
+msgstr ""
+"نمایش پیام \"سایت آزمایشی\" به عنوان یک مدال و هشدار در صفحه اصلی و صفحات "
+"ووکامرس."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://abzarwp.com"
+msgstr ""
+
+#: includes/DemoModal.php:56
+msgid "OK"
+msgstr "تایید"
+
+#: includes/DemoModal.php:124
+msgid ""
+"The purchase steps you have seen are designed only as a simulation and demo "
+"of the site template and have no operational validity or value. This "
+"demonstration is only for the purpose of presenting you how the site works, "
+"and as a result, no order has been registered and no obligation has been "
+"created on the part of the site. Please be assured that all the actions you "
+"have seen in this demo are only for demonstration purposes and will not have "
+"any real effect on your account or placing an order."
+msgstr ""
+"مراحل خریدی که مشاهده کردید صرفاً به عنوان یک شبیه‌سازی و دموی قالب سایت "
+"طراحی شده است و هیچ‌گونه اعتبار یا ارزشی از نظر عملیاتی ندارد. این نمایش "
+"تنها به منظور ارائه‌ی نحوه عملکرد سایت به شما بوده و در نتیجه، هیچ سفارشی به "
+"ثبت نرسیده و هیچ تعهدی از طرف سایت ایجاد نشده است. لطفاً اطمینان داشته باشید "
+"که تمامی اقداماتی که در این دمو مشاهده کرده‌اید، صرفاً جنبه‌ی نمایشی داشته و "
+"هیچ اثر واقعی بر روی حساب شما یا ثبت سفارش نخواهد داشت."
+
+#: includes/DemoModal.php:68
+msgid ""
+"This notification is displayed on the main page of the site as well as on "
+"WooCommerce related pages. If you would like this notification to not be "
+"displayed anymore, please go to the plugin management section and disable "
+"the \"Demo Modal\" plugin. This will remove the notification from your site."
+msgstr ""
+" این اعلان در صفحه اصلی سایت و همچنین در صفحات مربوط به ووکامرس نمایش داده "
+"می‌شود.اگر تمایل دارید که این اخطار دیگر نمایش داده نشود، لطفاً به بخش "
+"مدیریت افزونه‌ها بروید و افزونه \"Demo Modal\" را غیرفعال کنید. با این کار، "
+"اعلان مربوطه از سایت شما حذف خواهد شد."
+
+#: includes/DemoModal.php:68
+msgid ""
+"This plugin is designed to display a notification on your site that informs "
+"visitors that this site is currently a test (demo and under design) and no "
+"sales are being made."
+msgstr ""
+"این افزونه به منظور نمایش یک اعلان در سایت شما طراحی شده است که به "
+"بازدیدکنندگان اعلام می‌کند این سایت در حال حاضر به صورت آزمایشی (دمو و در "
+"حال طراحی) فعالیت می‌کند و هیچ فروشی انجام نمی‌شود."
+
+#: includes/DemoModal.php:75 includes/DemoModal.php:81
+#| msgid ""
+#| "Attention: This website is designed only to show the demo of the template,"
+#| " and no sales, commercial services"
+msgid ""
+"This website is designed only to show the demo of the template, and no sales,"
+" commercial services"
+msgstr ""
+"این وب سایت تنها برای نمایش دموی قالب طراحی شده است و هیچ گونه فروش و فعالیت "
+"تجاری ندارد ."
+
+#: includes/DemoModal.php:55
+msgid ""
+"This website is designed only to show the demo of the template, and no sales,"
+" commercial services or offering of products are made in it."
+msgstr ""
+" این وب‌سایت تنها به منظور نمایش دموی قالب طراحی شده است و هیچگونه فروش، "
+"خدمات تجاری یا ارائه محصولات در آن صورت نمی‌گیرد."
+
+#: includes/DemoModal.php:57
+msgid ""
+"To disable this warning, you can go to the plugin manager and disable the "
+"\"Demo Modal\" plugin"
+msgstr ""
+"برای غیر فعال کردن این اخطار می توانید به بخش مدیریت افزونه‌ها بروید و "
+"افزونه \"Demo Modal\" را غیرفعال کنید."

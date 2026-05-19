@@ -1,0 +1,12 @@
+.git
+
+# Ignore temporary files
+*.bak
+*.tmp
+*.swp
+*.swo
+*.zip
+
+# Ignore IDE files
+.vscode/
+.idea/

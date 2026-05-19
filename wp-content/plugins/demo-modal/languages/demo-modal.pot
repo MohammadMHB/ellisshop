@@ -1,0 +1,92 @@
+# Copyright (C) 2024 abzarwp.com
+# This file is distributed under the same license as the Demo Modal plugin.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Demo Modal 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/demo-modal\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-04 18:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: demo-modal\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;"
+
+#. Author of the plugin
+msgid "abzarwp.com"
+msgstr ""
+
+#: includes/DemoModal.php:54 includes/DemoModal.php:124
+msgid "Attention of dear users:"
+msgstr ""
+
+#: includes/DemoModal.php:68
+msgid "Attention:\"Demo Modal\" plugin is active"
+msgstr ""
+
+#. Name of the plugin
+msgid "Demo Modal"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Display a \"Demo Site\" message as a modal and warning on specific pages."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://abzarwp.com"
+msgstr ""
+
+#: includes/DemoModal.php:56
+msgid "OK"
+msgstr ""
+
+#: includes/DemoModal.php:124
+msgid ""
+"The purchase steps you have seen are designed only as a simulation and demo "
+"of the site template and have no operational validity or value. This "
+"demonstration is only for the purpose of presenting you how the site works, "
+"and as a result, no order has been registered and no obligation has been "
+"created on the part of the site. Please be assured that all the actions you "
+"have seen in this demo are only for demonstration purposes and will not have "
+"any real effect on your account or placing an order."
+msgstr ""
+
+#: includes/DemoModal.php:68
+msgid ""
+"This notification is displayed on the main page of the site as well as on "
+"WooCommerce related pages. If you would like this notification to not be "
+"displayed anymore, please go to the plugin management section and disable "
+"the \"Demo Modal\" plugin. This will remove the notification from your site."
+msgstr ""
+
+#: includes/DemoModal.php:68
+msgid ""
+"This plugin is designed to display a notification on your site that informs "
+"visitors that this site is currently a test (demo and under design) and no "
+"sales are being made."
+msgstr ""
+
+#: includes/DemoModal.php:75 includes/DemoModal.php:81
+msgid ""
+"This website is designed only to show the demo of the template, and no sales,"
+" commercial services"
+msgstr ""
+
+#: includes/DemoModal.php:55
+msgid ""
+"This website is designed only to show the demo of the template, and no sales,"
+" commercial services or offering of products are made in it."
+msgstr ""
+
+#: includes/DemoModal.php:57
+msgid ""
+"To disable this warning, you can go to the plugin manager and disable the "
+"\"Demo Modal\" plugin"
+msgstr ""

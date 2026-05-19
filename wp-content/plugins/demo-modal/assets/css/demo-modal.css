@@ -1,0 +1,82 @@
+@font-face {
+    font-family: vazir;
+    src: url('../fonts/vazir/Vazir.eot');
+    src: url('../fonts/vazir/Vazir.eot') format('embedded-opentype'),
+        url('../fonts/vazir/Vazir-Meduim-FD.woff') format('woff'),
+        url('../fonts/vazir/Vazir.ttf') format('truetype'),
+        url('../fonts/vazir/Vazir.woff') format('woff'),
+        url('../fonts/vazir/Vazir.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    font-family: 'vazir', sans-serif;
+}
+
+
+.demo-modal-admin-notice {
+    font-family: 'vazir', sans-serif;
+    text-align: justify;
+    font-size: 1.625em !important;
+    line-height: 2.2em !important;
+}
+
+.demo-modal-admin-notice .attention {
+    color: rgb(255, 0, 13);
+    font-weight: bold;
+}
+
+.woocommerce-NoticeGroup.woocommerce-NoticeGroup-checkout {
+    display: none;
+}
+
+#demo-notice {
+    font-family: 'vazir', sans-serif !important;
+    font-size: 1rem !important;
+    text-align: justify;
+    background-color: red !important;
+}
+
+.swal2-title,
+.swal2-html-container,
+.swal2-footer,
+.swal2-actions,
+.swal2-confirm {
+    font-family: 'vazir', sans-serif !important;
+}
+
+.swal2-html-container , .swal2-footer {
+    font-size: 1em;
+}
+
+.swal2-footer{
+    color: red;
+}
+
+.swal2-actions .swal2-confirm {
+    border: 0;
+    border-radius: .25em;
+    background: initial;
+    background-color: #7066e0;
+    color: #fff;
+    font-size: 1em;
+}
+
+@media (max-width: 600px) {
+    body {
+        font-size: 0.9rem;
+    }
+
+    #demo-notice {
+        font-size: 0.9rem;
+    }
+
+
+    .swal2-html-container,
+    .swal2-footer,
+    .swal2-actions,
+    .swal2-confirm {
+        font-size: 0.9rem;
+    }
+}

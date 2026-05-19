@@ -1,0 +1,8 @@
+wp-config.php
+wp-admin/
+wp-includes/
+wp-content/uploads/
+wp-content/cache/
+*.log
+.htaccess
+error_log
