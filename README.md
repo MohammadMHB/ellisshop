@@ -1,7 +1,8 @@
-باشه. در اینجا نسخه‌ی جدید `README.md` بدون بخش «چجوری ران کنید» (Local Development Setup و Installation on Live Server) آورده شده است:
+## 🌐 Live Website
 
-```markdown
-# Ellis Shop 📚
+The project is live at: **[https://ellisshop.ir](https://ellisshop.ir)**
+
+# Ellis Shop 📚 
 
 Ellis Shop is a fully functional e-commerce website built with WordPress and WooCommerce. It allows users to purchase both **physical books** (delivered by mail) and **digital books** (instant download after purchase). The site includes a complete user authentication system, shopping cart, secure checkout, and order management features.
 
@@ -99,10 +100,8 @@ This is a private project. For suggestions or bug reports, please contact the re
 ## 📧 Contact
 
 For questions about this project:  
-**Ellis Shop Support** – [support@ellisshop.ir](mailto:support@ellisshop.ir)
+**Ellis Shop Support** – [mohebian80@gmail.com](mailto:mohebian80@gmail.com)
 
 ---
 
 ⭐ *If you find this project useful for learning purposes, feel free to star this repository!*
-```
-
